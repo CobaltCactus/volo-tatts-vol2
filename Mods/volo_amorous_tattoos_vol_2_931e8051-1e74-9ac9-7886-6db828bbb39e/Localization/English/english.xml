@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="hefec88f7geba0g7359gaa26gf614efe00786" version="1">No Tattoo</content>
+  <content contentuid="hd33e62afg8e8fg4fc9gc114g571b0f0cb57c" version="2">Gale Banner (Front)</content>
+  <content contentuid="h3b125960gc524ge6ecgf9a7gcf95affbb6ae" version="2">Gale Banner (Side)</content>
+  <content contentuid="h0076dcd8gb4f7g249eg45f1ge5906f95fd94" version="3">Gale Mystra (Filled)</content>
+  <content contentuid="h58566a21g71e0gb2f2gaaabgb59b538fd6a4" version="3">Gale Mystra (Hollow)</content>
+  <content contentuid="h5aec952eg0128g5be7gb397g194eb970ab5c" version="2">Gale Name Heart (Front)</content>
+  <content contentuid="ha90b00b6g3743gb058gac7ag51359715658a" version="2">Gale Name Heart (Side)</content>
+  <content contentuid="he87b379cg7483g2a55gfa57ga6cebf541d6f" version="2">Halsin Banner (Front)</content>
+  <content contentuid="hc44ce50eg26a3gf22fg2f87gff16bde5568c" version="2">Halsin Banner (Side)</content>
+  <content contentuid="h55403575gf9c0gc6a4g2938ga88602aaae7d" version="2">Halsin Bear Paw (Front)</content>
+  <content contentuid="he0e6cdcbg1ac2gd7d2gc985gb934ffcb51a3" version="2">Halsin Bear Paw (Side)</content>
+  <content contentuid="h2b290b67g8942g00fegbbe0g3c65c4b3fa2c" version="3">Halsin Name Heart (Front)</content>
+  <content contentuid="h4a7df62agdb74g522eg2e65gcc45f5a3c41f" version="3">Halsin Name Heart (Side)</content>
+  <content contentuid="h9e5ff98fg8103g1b8bg4787gd6003c6858a6" version="3">Karlach Banner (Front)</content>
+  <content contentuid="h45bd9f12g31beg02e8gfb47gb9e812f44de0" version="3">Karlach Banner (Side)</content>
+  <content contentuid="h6a289d21g9bacg2a9fg1bbag1ffa759024cc" version="3">Karlach Infernal (Front)</content>
+  <content contentuid="h96c743a0g74ebg4099g6269g0e4805d2ce45" version="3">Karlach Infernal (Side)</content>
+  <content contentuid="h6a3b3330g3215g23c5g79b8g8852a0f01a23" version="3">Karlach Mama K (Front)</content>
+  <content contentuid="h89330b42ga255g6c0dg81degc3a3b73112e3" version="3">Karlach Mama K (Side)</content>
+  <content contentuid="h01eaf831g11aega147geb84g11cc74690586" version="3">Karlach Name Heart (Front)</content>
+  <content contentuid="h2a1359c2g82b2g6721gd39ag3c733119b6f5" version="3">Karlach Name Heart (Side)</content>
+  <content contentuid="hb92d0176g5c8bg7fc3gf331g67727e925e0d" version="3">Wyll Banner (Front)</content>
+  <content contentuid="h4c4d0866g21c7gf9d9gd865g585fac2e0b61" version="3">Wyll Banner (Side)</content>
+  <content contentuid="h8a3bfc53g97a6g7abag8515gc8db2a846064" version="3">Wyll Blade Babe (Front)</content>
+  <content contentuid="h2dfe8118gf383ge206gb5c2ged02391b0559" version="3">Wyll Blade Babe (Side)</content>
+  <content contentuid="h1a3b1141g0c16gfa12g1b39g75e26967038c" version="2">Wyll Name Heart (Front)</content>
+  <content contentuid="hc4976f1eg2502g7d99gbaeag9e87f53d5d7a" version="2">Wyll Name Heart (Side)</content>
+  <content contentuid="ha8828e67g9b8bgebc5g4bdfge69aadbbbfe1" version="1">From The Deep</content>
+  <content contentuid="h90748dd1gee73ga80cg042bgea2906223268" version="1">Beholder Gorgon</content>
+  <content contentuid="hf7f801f7g425dgf859g4a14g692f7b7c68d4" version="1">Chastened</content>
+  <content contentuid="h1e309e93g0fa5gcbb4gc6adg2c9c9f21510d" version="1">Blake Tiger</content>
+  <content contentuid="he372fcd9gf5f4g02a3g867fga2656dcc4c5b" version="1">Sharp Candelabra </content>
+  <content contentuid="h56353c5dg7152g3eaagc66dg6a1e226f38c5" version="1">Polkadots</content>
+  <content contentuid="haf9c057bg8fbega6c6g062cg6c3d04df2c5c" version="1">Wicked Reaper</content>
+  <content contentuid="h4a060b19g276bg23f3g2454gb256bfdde8b8" version="1">Brokenshard Sword</content>
+  <content contentuid="h0fb31517g3923g6bbdg9415g317c21ab1358" version="1">Guerilla</content>
+  <content contentuid="h7fa7305eg0feeg773eg7e87g808674fe1d6e" version="1">War Boars</content>
+  <content contentuid="hfcafeef3g17e2g7b07g8999g878368357c91" version="1">Masque of Wrath</content>
+  <content contentuid="hc7878f3dgdaffg06d7gfe16g56ec956d6f08" version="1">Ivy Trellis</content>
+  <content contentuid="hd35209e0g28e2g11d8ga266g3e2269e8c2a8" version="1">Searching Chains</content>
+  <content contentuid="hb221944eg458egeff0g5d94gd572e99e27e0" version="1">Mechanus Moons</content>
+  <content contentuid="h18db1b31g410fg49a5g78b0g0c2401bf8272" version="1">Centipedes</content>
+  <content contentuid="h604a7f9bg230bg969cg785fgcf58ed1a8f29" version="1">Mud Worms</content>
+  <content contentuid="hca0ae86bg2f00gcfb8g961cg77155205b31a" version="1">Macabre Chinstrap</content>
+  <content contentuid="h031e158eg3936g25a5g8d53g6347b2a456d0" version="1">Dread Fog</content>
+</contentList>
